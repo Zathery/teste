@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(to bottom, #ffe6f0, #fff);
+	font-family: 'Serifada', serif;
+	color: #f179b5;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+  }
+  
+  .container {
+	text-align: center;
+  }
+  
+  h1 {
+	font-size: 1.8em;
+	margin-bottom: 0.3em;
+  }
+  
+  h2 {
+	font-size: 1.8em;
+	margin: 0.5em 0;
+  }
+  
+  p {
+	font-size: 1.2em;
+  }
+  
+  img {
+	max-width: 200px;
+	margin-top: 30px;
+	border-radius: 50%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
